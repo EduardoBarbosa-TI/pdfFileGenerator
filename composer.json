@@ -1,6 +1,6 @@
 {
     "name": "user/pdf-file-generator",
-    "description": "Estudando composer",
+    "description": "Estudos sobre Composer",
     "type": "project",
     "autoload": {
         "psr-4": {
